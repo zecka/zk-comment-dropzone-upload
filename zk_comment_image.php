@@ -1,9 +1,11 @@
 <?php
 /*
-Plugin Name: ZK COMMENT IMAGE
+Plugin Name: ZK COMMENT DROPZONE UPLOAD
 Version: 0.0.1
 Description: Demos DropzoneJS in WordPress
 Author: Robin Ferrari
+GitHub Plugin URI: zeckart/zk-comment-dropzone-upload
+GitHub Plugin URI: https://github.com/zeckart/zk-comment-dropzone-upload
 */
 
 define( 'ZKCI_URL', substr(plugin_dir_url( __FILE__ ), 0, -1) );
